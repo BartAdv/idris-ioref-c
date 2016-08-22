@@ -4,4 +4,4 @@ modules = Data.IORef
 pkgs = prelude
 
 makefile = Makefile
-objs = IORef.o
+objs = IORef.h, IORef.o
